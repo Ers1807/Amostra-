@@ -1,0 +1,13 @@
+{
+    "editor.inlineSuggest.showToolbar": "always",
+    "editor.acceptSuggestionOnEnter": "on",
+    "editor.acceptSuggestionOnCommitCharacter": true,
+    "editor.inlineSuggest.enabled": true,
+    "editor.screenReaderAnnounceInlineSuggestion": false,
+    "editor.suggest.filterGraceful": false,
+    "editor.suggest.localityBonus": true,
+    "editor.suggest.preview": true,
+    "editor.suggest.selectionMode": "never",
+    "editor.inlineSuggest.fontFamily": "never",
+    "editor.inlineSuggest.suppressSuggestions": true
+}
